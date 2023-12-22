@@ -1,2 +1,5 @@
 develop
 feature/park
+
+깃허브에 저장된 것 역으로 실행방법
+패치(새로고침) > pull > push > 다른 브랜치들 적용하려면 브랜치 선택 후 병합하고 + push
